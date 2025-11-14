@@ -3,7 +3,7 @@
 - 🌱 I’m Completed Computer Engineering In Diploma  
 - 💞️ I’m looking to collaborate on ...
 - ✨ Experienced in Flutter Developer
-- 📫 How to reach me ... dev.jamsheed@gmail.com
+- 📫 How to reach me - dev.jamsheed@gmail.com
 
 <!---
 JamsheedOzzr/JamsheedOzzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
