@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SAHEED IBNU JAMSHEED
 - 👀 I’m interested in Editing
-- 🌱 I’m currently learning Computer Engineering In Diploma  
+- 🌱 I’m Completed Computer Engineering In Diploma  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ✨ Experienced in Flutter Developer
+- 📫 How to reach me ... dev.jamsheed@gmail.com
 
 <!---
 JamsheedOzzr/JamsheedOzzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
