@@ -9,7 +9,7 @@
 JamsheedOzzr/JamsheedOzzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm SAHEED IBNU JAMSHEED</h1>
+<h1 align="center">Hi 👋, I'm SAHEED IBNU JAMSHEED </h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamsheedozzr&label=Profile%20views&color=0e75b6&style=flat" alt="jamsheedozzr" /> </p>
