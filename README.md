@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAHEED IBNU JAMSHEED
+- 👋 Hi, I’m SAHEED IBNU JAMSHEED
 - 👀 I’m interested in Editing
 - 🌱 I’m Completed Computer Engineering In Diploma  
 - 💞️ I’m looking to collaborate on ...
